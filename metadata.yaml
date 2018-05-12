@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '9530'
     url: http://www.gutenberg.org/2009/agents/9530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29955#Passeggiate-per-l-Italia-vol.-1
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2009-09-10'
 gutenberg_type: Text
